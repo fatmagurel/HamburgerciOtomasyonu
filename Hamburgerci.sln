@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hamburgerci.UI", "Hamburgerci.UI\Hamburgerci.UI.csproj", "{80AD8ACA-776B-4C4E-A691-6D17FF039471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hamburgerci.DATA", "Hamburgerci.DATA\Hamburgerci.DATA.csproj", "{EF93212E-DD94-4AEB-BB71-83F56EB752D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{CF9E75B3-4B77-485A-8499-7991C86B7963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80AD8ACA-776B-4C4E-A691-6D17FF039471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80AD8ACA-776B-4C4E-A691-6D17FF039471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80AD8ACA-776B-4C4E-A691-6D17FF039471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80AD8ACA-776B-4C4E-A691-6D17FF039471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF93212E-DD94-4AEB-BB71-83F56EB752D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF93212E-DD94-4AEB-BB71-83F56EB752D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF93212E-DD94-4AEB-BB71-83F56EB752D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF93212E-DD94-4AEB-BB71-83F56EB752D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF9E75B3-4B77-485A-8499-7991C86B7963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF9E75B3-4B77-485A-8499-7991C86B7963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF9E75B3-4B77-485A-8499-7991C86B7963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF9E75B3-4B77-485A-8499-7991C86B7963}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {213DF10E-0CFE-4821-BFEC-B54C7BEE89A1}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/fatmagurel06
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DAL\\DAL.csproj
+		SccProjectName1 = DAL
+		SccLocalPath1 = DAL
+		SccProjectUniqueName2 = Hamburgerci.DATA\\Hamburgerci.DATA.csproj
+		SccProjectName2 = Hamburgerci.DATA
+		SccLocalPath2 = Hamburgerci.DATA
+		SccProjectUniqueName3 = Hamburgerci.UI\\Hamburgerci.UI.csproj
+		SccProjectName3 = Hamburgerci.UI
+		SccLocalPath3 = Hamburgerci.UI
+	EndGlobalSection
+EndGlobal

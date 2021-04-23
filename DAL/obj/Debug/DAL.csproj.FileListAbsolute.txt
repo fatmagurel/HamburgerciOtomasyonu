@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Hamburgerci\DAL\bin\Debug\DAL.dll.config
+C:\Users\user\source\repos\Hamburgerci\DAL\bin\Debug\DAL.dll
+C:\Users\user\source\repos\Hamburgerci\DAL\bin\Debug\DAL.pdb
+C:\Users\user\source\repos\Hamburgerci\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\Hamburgerci\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\Hamburgerci\DAL\bin\Debug\Hamburgerci.DATA.dll
+C:\Users\user\source\repos\Hamburgerci\DAL\bin\Debug\Hamburgerci.DATA.pdb
+C:\Users\user\source\repos\Hamburgerci\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\Hamburgerci\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\Hamburgerci\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Hamburgerci\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Hamburgerci\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user\source\repos\Hamburgerci\DAL\obj\Debug\DAL.dll
+C:\Users\user\source\repos\Hamburgerci\DAL\obj\Debug\DAL.pdb

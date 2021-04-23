@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Hamburgerci\Hamburgerci.DATA\bin\Debug\Hamburgerci.DATA.dll
+C:\Users\user\source\repos\Hamburgerci\Hamburgerci.DATA\bin\Debug\Hamburgerci.DATA.pdb
+C:\Users\user\source\repos\Hamburgerci\Hamburgerci.DATA\obj\Debug\Hamburgerci.DATA.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Hamburgerci\Hamburgerci.DATA\obj\Debug\Hamburgerci.DATA.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Hamburgerci\Hamburgerci.DATA\obj\Debug\Hamburgerci.DATA.dll
+C:\Users\user\source\repos\Hamburgerci\Hamburgerci.DATA\obj\Debug\Hamburgerci.DATA.pdb
